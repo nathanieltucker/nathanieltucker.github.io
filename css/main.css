@@ -4,6 +4,7 @@ div.ex1 {
   border: 3px solid #0000FF;
   border-spacing:20px;
   position:relative;
+  padding:20px;
 }
 
 body {
