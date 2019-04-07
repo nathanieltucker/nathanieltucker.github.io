@@ -12,12 +12,16 @@ body {
     width: 90%;
     /*width: 800px auto;*/
 }
+nav {
+  text-align: center; 
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     /*padding: 20px;*/
     list-style: none;
     font-weight: bold;
     display: inline-block;
+    text
 }
 nav ul li, footer ul li {
     display: inline-block;
