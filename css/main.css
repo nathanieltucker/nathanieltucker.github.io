@@ -2,6 +2,8 @@ div.ex1 {
   max-width:1440px;
   margin: auto;
   border: 3px solid #0000FF;
+  border-spacing:20px;
+  position:relative;
 }
 
 body {
