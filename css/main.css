@@ -1,8 +1,8 @@
 div.ex1 {
   /*max-width:1440px;*/
-  max-width:75%;
+  max-width:90%;
   margin: auto;
-  border: 3px solid #000000;
+  border: 6px solid #000000;
   border-spacing:20px;
   position:relative;
   padding:20px;
